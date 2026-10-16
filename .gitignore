@@ -1,0 +1,9 @@
+# Build caches and outputs
+.gradle/
+.kotlin/
+build/
+app/build/
+*.apk
+
+# Release signing key
+*.jks
